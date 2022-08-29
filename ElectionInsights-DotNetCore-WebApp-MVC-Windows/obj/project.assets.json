@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jotas\\source\\repos\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows.csproj",
+      "projectUniqueName": "C:\\Users\\jotas\\Documents\\GitHub\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows.csproj",
       "projectName": "ElectionInsights-DotNetCore-WebApp-MVC-Windows",
-      "projectPath": "C:\\Users\\jotas\\source\\repos\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows.csproj",
+      "projectPath": "C:\\Users\\jotas\\Documents\\GitHub\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows.csproj",
       "packagesPath": "C:\\Users\\jotas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jotas\\source\\repos\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\obj\\",
+      "outputPath": "C:\\Users\\jotas\\Documents\\GitHub\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jotas\\AppData\\Roaming\\NuGet\\NuGet.Config",

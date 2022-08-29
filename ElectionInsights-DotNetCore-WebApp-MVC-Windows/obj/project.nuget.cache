@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlwg3O0PSDmOImX4YLgkzsXisuHNLcIHL4Blkec+4PWUtSU2YZJ8In0og0+oZdWktrFI237pPMTk9OLHfvNTQw==",
+  "dgSpecHash": "3eC1zYiF1oaKKBplpyhUeRP5fZQHBqkhedoPva6hLfwm/2G2Lgngr4w42cR/JxUOrKZUPWKw0k72SoYUU/VYAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jotas\\source\\repos\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows.csproj",
+  "projectFilePath": "C:\\Users\\jotas\\Documents\\GitHub\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows\\ElectionInsights-DotNetCore-WebApp-MVC-Windows.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
