@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectionInsights-DotNetCore-WebApp-MVC-Windows", "ElectionInsights-DotNetCore-WebApp-MVC-Windows\ElectionInsights-DotNetCore-WebApp-MVC-Windows.csproj", "{A2B19D45-997E-40E9-9A1F-DD5639B10A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B19D45-997E-40E9-9A1F-DD5639B10A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B19D45-997E-40E9-9A1F-DD5639B10A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B19D45-997E-40E9-9A1F-DD5639B10A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B19D45-997E-40E9-9A1F-DD5639B10A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A942FAE3-CDD3-4BD6-8AEE-7360444A99E5}
+	EndGlobalSection
+EndGlobal
